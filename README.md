@@ -1,5 +1,3 @@
-Client-side web LaTeX editor & compiler.
-
 Development:
 ```bash
 npm run dev
