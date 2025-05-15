@@ -140,7 +140,7 @@ export default function Home() {
         <>
             {hydrated && (
                 <Script
-                    src="/PdfTeXEngine.js"
+                    src="PdfTeXEngine.js"
                     onLoad={handleEngineLoad}
                 />
             )}
